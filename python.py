@@ -10,3 +10,5 @@ for i in fruits:
 print("Below fruits are available:")
 for i in fruits:
     print (i)
+
+print(f"I like jenkins")
